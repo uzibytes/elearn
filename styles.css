@@ -1,0 +1,98 @@
+.search-bar {
+  margin-left: 75%;
+  position: absolute;
+  display: inline;
+}
+.title-img {
+  height: 40rem;
+  background-image: url("https://www.futurity.org/wp/wp-content/uploads/2018/04/coder-coding-on-laptop_1600.jpg");
+  background-size: 100% 100%;
+}
+
+h1 {
+  font-family: " Montserrat-black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 400;
+  padding-top: 10%;
+  margin: 2px 33px;
+
+  color: white;
+}
+h3 {
+  font-family: "Montserrat-bold", sans-serif;
+  color: white;
+  font-weight: 100;
+}
+h6 {
+  color: white;
+}
+.title-para {
+  position: relative;
+  top: -12rem;
+  color: white;
+  margin: 3px 34px;
+}
+.bottom {
+  padding-top: 3%;
+  padding-bottom: 7%;
+
+  height: 5rem;
+  /* background-color: #874356;
+   */
+   background: linear-gradient(#e83e8c,#dc3545);
+  text-align: center;
+  color: white;
+}
+#features {
+  padding: 70px 10px 70px 10px;
+
+  background-color: #e8f6ef;
+}
+
+.python {
+  height: 14rem;
+}
+.web-design {
+  margin: 6px 9px;
+  height: 20rem;
+  padding: 3px 6px;
+}
+.col-lg-3 {
+  width: 24%;
+}
+.col-lg-3:hover {
+  box-shadow: 13px 14px 6px rgb(64, 62, 62);
+}
+.dropdown-menu {
+  background: white;
+}
+
+.dropdown-item {
+  color: black !important;
+}
+
+.courses {
+  margin-top: 5%;
+}
+.btn-size {
+  width: 22.3rem;
+}
+.btn-outline-light{
+    height: 1.9rem;
+    align-items: center;
+    padding: 5px 5px;
+    padding-top: 2px;
+}
+.container {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+#footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 5rem;
+  padding-top: 20px;
+}
